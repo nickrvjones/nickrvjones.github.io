@@ -1,0 +1,28 @@
+<style>
+header {
+	font-family: 'American Typewriter';
+    background-color:red;
+    color:white;
+    text-align:center;
+    padding:5px; 
+}
+nav {
+	font-family: 'American Typewriter';
+	color: #404040;
+    line-height:30px;
+    background-color:#E7B86A;
+    height:120px;
+    width:170px;	
+    padding:5px; 
+    position: fixed;
+    top: 30px;
+    right: 5px;
+}
+footer {
+	font-family: 'American Typewriter';
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
